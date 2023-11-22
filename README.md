@@ -1,4 +1,5 @@
-## Instructions
+
+![Screen Shot 2023-11-22 at 5 07 45 AM](https://github.com/JonathanRaposo/json-server-API/assets/67019470/65c6716f-89a9-4d78-b07f-04d065596d8d)
 
 I'm going to create a fake API using JSON-Server npm module to then do an application to Create, Read, Update, and Delete characters from it. The routes available in this API are the following:
 
